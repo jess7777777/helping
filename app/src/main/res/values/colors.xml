@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pink">#F1A1E9</color>
+    <color name="purple">#D8A8F3</color>
+    <color name="darkpurple1">#301934 </color>
+    <color name="blue">#8AC5DF</color>
+    <color name="colorError">#FF0000</color>
+    <color name="reddish">#F7A399</color>
+    <color name="colorPrimaryvariant">#00FF00</color>
+    <color name="androidstatusbarcolor">#00FA01</color>
+    <color name="darkpurple">#301934 </color>
+    <color name="darkblue">#7474B0 </color>
+
+</resources>

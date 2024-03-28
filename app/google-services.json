@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040548057213",
+    "project_id": "helping-f8919",
+    "storage_bucket": "helping-f8919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040548057213:android:329e3f6f8cc6baed7e6114",
+        "android_client_info": {
+          "package_name": "com.example.helping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqkiqr8nMgxgzXH_c1naeu9axX_Pfo6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

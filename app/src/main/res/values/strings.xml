@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">helping</string>
+    <string name="app_welcome">Welcome To MyApp</string>
+    <string name="scroll">Accounting is the system of recording financial transactions with both numbers
+        and text in the form of financial statements. It provides an essential tool for billing customers,
+        keeping track of assets and liabilities (debts), determining profitability, and tracking the flow
+        of cash. The system is largely self-regulated and designed for the users of financial information,
+        who are referred to as stakeholders: business owners, lenders, employees, managers, customers, and
+        others.
+        Stakeholders utilize financial statements to help make business, lending, and investment decisions.
+    Accounting has several specialized fields and roles. Private (internal) accounting generally refers
+        to accountants who work within a single business entity. Small business accountants may assume
+        general roles which require preparing the records (bookkeeping) and performing bank reconciliations.
+        Accounting professionals are generally divided into three fields: tax, audit, and advisory. The tax
+        field focuses on federal, state, and local tax filings. Audit roles test the validity of financial
+        statements and internal controls. Advisory services perform general financial consulting.
+        Public accounting firms have several different clients,
+        whereas private accounting refers to working for one specific business entity.accounting standards set
+        guidelines and rules for financial statement preparation. These are set via a combination of private
+        industry organizations in cooperation with government committees. Generally Accepted Accounting Practices
+        in the United States (US GAAP) largely governs the rules for recording transactions and disclosing
+        critical business information to stakeholders. International Financial Reporting Standards (IFRS)
+        governs international standards. Both systems require the use of double entry accounting.
+        While both sets of standards are similar, there are significant differences such as allowed
+        inventory methodologies and reporting asset valuation.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
